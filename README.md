@@ -48,7 +48,7 @@ It allows users to add, update, delete, and view their skills through a command-
 
 ---
 ## Example Output
-What Do You Want?
+```What Do You Want?
 -s => Show All Skills
 -a => Add New Skill
 -d => Delete Skill
@@ -59,6 +59,7 @@ What Do You Want?
 You Have 2 Skill\s
 -Skill Name => Python , Skill Progress => 90%
 -Skill Name => Arduino , Skill Progress => 70%
+```
 ---
 🧑‍💻 Author
 Developed by Abdelaziz 
