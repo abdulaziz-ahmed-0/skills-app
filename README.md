@@ -31,32 +31,34 @@ It allows users to add, update, delete, and view their skills through a command-
    python main.py
 ---
 ## Follow the menu options:
-s → Show all skills
-a → Add a new skill
-u → Update skill progress
-d → Delete a skill
-q → Quit the application
+- `s` → Show all skills  
+- `a` → Add a new skill  
+- `u` → Update skill progress  
+- `d` → Delete a skill  
+- `q` → Quit the application
+
 ---
 ## Database Info
-Database file: app.db
-Table: skills
-Fields:
-name → Text (Skill name)
-progress → Text (Skill progress in %)
-user_id → Text (User identifier)
+- **Database file:** `app.db`  
+- **Table:** `skills`  
+- **Fields:**  
+  - `name` → Text (Skill name)  
+  - `progress` → Text (Skill progress in %)  
+  - `user_id` → Text (User identifier)
+
 ---
 ## Example Output
 What Do You Want?
-s => Show All Skills
-a => Add New Skill
-d => Delete Skill
-u => Update Skill Progress
-q => Quit Application
+-s => Show All Skills
+-a => Add New Skill
+-d => Delete Skill
+-u => Update Skill Progress
+-q => Quit Application
 : s
->
+
 You Have 2 Skill\s
-Skill Name => Python , Skill Progress => 90%
-Skill Name => Arduino , Skill Progress => 70%
+-Skill Name => Python , Skill Progress => 90%
+-Skill Name => Arduino , Skill Progress => 70%
 ---
 🧑‍💻 Author
 Developed by Abdelaziz 
