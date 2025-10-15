@@ -49,16 +49,16 @@ It allows users to add, update, delete, and view their skills through a command-
 ---
 ## Example Output
 ```What Do You Want?
--s => Show All Skills
--a => Add New Skill
--d => Delete Skill
--u => Update Skill Progress
--q => Quit Application
+s => Show All Skills
+a => Add New Skill
+d => Delete Skill
+u => Update Skill Progress
+q => Quit Application
 : s
 
 You Have 2 Skill\s
--Skill Name => Python , Skill Progress => 90%
--Skill Name => Arduino , Skill Progress => 70%
+Skill Name => Python , Skill Progress => 90%
+Skill Name => Arduino , Skill Progress => 70%
 ```
 ---
 🧑‍💻 Author
